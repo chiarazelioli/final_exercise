@@ -23,3 +23,5 @@ b is the vector of fixed effects (sex, age, ...), and **X** the respective desig
 **d** is the vector of environmental random effects and **W** the respective design matrix;
 
 **r** vector of normally-distributed residuals.
+
+abc
