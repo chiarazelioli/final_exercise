@@ -1,0 +1,23 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+SNPfile|stem|e806692feb68ae2e|e4d363c6fc6c1083|2c530c1562a7fbd1|-2102847113|/Users/zeliolina/Desktop/PhD courses/Finse26/final_exercise/data/SNP_100k.rds|t19830.5484850196s|s88669003b|88669003|file|local|vector|||0||
+SNP|stem|e187d8cc7584005b|111731db35871f92|e683268c0f6bb771|-2113520780||t20749.5573090369s|s88669003b|88669003|rds|local|vector|||3.231||
+XXfile|stem|7c00f322d9261946|88113a4cc2e52a19|2c530c1562a7fbd1|-1335808899|/Users/zeliolina/Desktop/PhD courses/Finse26/final_exercise/data/matrixXX.rds|t20749.5714822749s|s27849416b|27849416|file|local|vector|||0.471||
+XX|stem|7c00f322d9261946|f8fc7db42532e6f9|9ce552e010aac22a|-447318155||t20749.572006535s|s27849416b|27849416|rds|local|vector|||0.098||
+prnt|stem|12d6f4d3898bbbff|f07df56511793376|a4ab99eadd0ded6f|-1160340340||t20749.5720094762s|s55b|55|rds|local|vector|||0.001||
+sigma1|object|a10b0861f057ffab
+sigma2|object|b9849ab14c21d7ad
+sigma3|object|34d968d1945b655e
+sigma4|object|cf0025f6b6d15e62
+n_subsample|object|186a9761fbdfa992
+sigma|object|74932d1db0491dac
+pi1|object|8094e2aa6573adfd
+pi2|object|a10b0861f057ffab
+pi3|object|a10b0861f057ffab
+pi4|object|ff81af095a75741e
+pi|object|34dc8954495b239c
+prepare_PCs|function|2040cdb002775a8c
+n_PCs|object|b272cfc9c3659782
+varA|object|64ca84ffe374acb5
+simulate_pheno|function|ffac2e6b75becfba
+XX_processed|stem|804bf712dd23ac14|308738003e216477|d7694355573e5cf7|-54383489||t20749.5723823071s|s18099310b|18099310|rds|local|vector|||0.247||
+sim_data|stem||369b09a6f76add0b|046d7623c5dd36b8|552381520||t20749.5724212602s||0|rds|local|vector|||0.204||requires numeric/complex matrix/vector arguments
