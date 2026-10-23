@@ -1,0 +1,25 @@
+---
+title: "README"
+format: html
+editor: visual
+---
+
+The goal is to perform genomic prediction including multiple random effects, namely additive genetic and environmental, and adding custom penalization on them.
+
+For this task, we simulate phenotypic data following the marker-based model formulation.
+
+Let **y** be the vector of a certain phenotype measurements for N individuals in a populations. According to the animal model, it can be expressed as:
+
+$\textbf{y} = \textbf{m} + \textbf{Xb} + \textbf{Zu} + \textbf{Wd} + \textbf{r}$
+
+where
+
+**m** is the population mean;
+
+b is the vector of fixed effects (sex, age, ...), and **X** the respective design matrix;
+
+**u** is the vector of random effects for allele substitutions, **Z** the SNP-matrix;
+
+**d** is the vector of environmental random effects and **W** the respective design matrix;
+
+**r** vector of normally-distributed residuals.
